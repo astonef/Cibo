@@ -1,5 +1,7 @@
 I am learning to use [Tailwindcss](https://tailwindcss.com/) @tailwindlabs, so I designed this static homepage.
-Thanks to the amazing @iamshaunjp, great teacher, [check this out] (https://www.youtube.com/TheNetNinja)
+Thanks to the amazing @iamshaunjp, great teacher, [check this out](https://www.youtube.com/TheNetNinja)
+
+![That's it](https://github.com/astonef/Food_blog_homepage/blob/main/Foodblog.png)
 
 
 
