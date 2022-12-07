@@ -1,1 +1,6 @@
-# Cibo
+I am learning to use [Tailwindcss](https://tailwindcss.com/) @tailwindlabs, so I designed this static homepage.
+Thanks to the amazing @iamshaunjp, great teacher, [check this out] (https://www.youtube.com/TheNetNinja)
+
+
+
+#[Try the blog](https://astonef.github.io/Food_blog_homepage/)
